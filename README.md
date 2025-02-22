@@ -11,8 +11,6 @@
 
 <hr/>
 
-## 🚩 From concept to code, I architect and implement high-performance applications that drive measurable results 💙.
-## 😉 My passion is to create efficient, scalable, and user-centric software that shapes the digital landscape ⭐.
 
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Senior Software Engineer
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> SEO Specialist
@@ -34,8 +32,3 @@
 
 <hr /> 
 
-![sweetdream-001 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sweetdream-001)
-
-![sweetdream-001 github-trophies](https://stats.dooboo.io/api/github-trophies?login=sweetdream-001)
-
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sweetdream-001)
